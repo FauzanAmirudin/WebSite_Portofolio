@@ -1,6 +1,6 @@
-<?= $this->extend('layouts/template'); ?>
+<?= $this->extend('layouts/template'); ?> <!-- Memanggil Template Navbar dan Footer -->
 
-<?= $this->section('content'); ?>
+<?= $this->section('content'); ?> <!-- Menginisiasi Section Content -->
 <section class="ftco-section ftco-no-pb" id="resume-section">
 		<div class="container">
 			<div class="row justify-content-center pb-5">
