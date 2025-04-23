@@ -9,7 +9,7 @@
 				<div class="img-about img d-flex align-items-stretch">
 					<div class="overlay"></div> <!-- Layer transparan di atas gambar -->
 					<div class="img d-flex align-self-stretch align-items-center"
-						style="background-image:url(images/bg_1.png);">
+						style="background-image:url(images/bg1-hero.png);">
 					</div> 
 					<!-- Menampilkan gambar sebagai latar belakang dengan URL 'images/bg_1.png' -->
 				</div>
@@ -23,12 +23,11 @@
 						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
 						<!-- Deskripsi singkat tentang profil -->
 						<ul class="about-info mt-4 px-md-0 px-2">
-							<li class="d-flex"><span>Name:</span> <span>Clark Thompson</span></li>
-							<li class="d-flex"><span>Date of birth:</span> <span>January 01, 1987</span></li>
-							<li class="d-flex"><span>Address:</span> <span>San Francisco CA 97987 USA</span></li>
-							<li class="d-flex"><span>Zip code:</span> <span>1000</span></li>
-							<li class="d-flex"><span>Email:</span> <span>clarkthomp@gmail.com</span></li>
-							<li class="d-flex"><span>Phone: </span> <span>+1-2234-5678-9-0</span></li>
+							<li class="d-flex"><span>Name:</span> <span>Fauzan Amirudin Basith</span></li>
+							<li class="d-flex"><span>Date of birth:</span> <span>March 21, 2004</span></li>
+							<li class="d-flex"><span>Address:</span> <span>Bandar Lampung</span></li>
+							<li class="d-flex"><span>Email:</span> <span>fauzan223360@gmail.com</span></li>
+							<li class="d-flex"><span>Phone: </span> <span>083169959031</span></li>
 						</ul>  
 						<!-- Menampilkan informasi pribadi dalam bentuk daftar -->
 					</div>

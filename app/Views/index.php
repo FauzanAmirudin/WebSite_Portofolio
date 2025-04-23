@@ -50,48 +50,6 @@
 		</div>
 	</section>
 
-	<section class="ftco-about img ftco-section ftco-no-pb" id="about-section">
-		<div class="container">
-			<div class="row d-flex">
-				<div class="col-md-6 col-lg-5 d-flex">
-					<div class="img-about img d-flex align-items-stretch">
-						<div class="overlay"></div>
-						<div class="img d-flex align-self-stretch align-items-center"
-							style="background-image:url(images/bg_1.png);">
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6 col-lg-7 pl-lg-5 pb-5">
-					<div class="row justify-content-start pb-3">
-						<div class="col-md-12 heading-section ftco-animate">
-							<h1 class="big">About</h1>
-							<h2 class="mb-4">About Me</h2>
-							<p>A small river named Duden flows by their place and supplies it with the necessary
-								regelialia.</p>
-							<ul class="about-info mt-4 px-md-0 px-2">
-								<li class="d-flex"><span>Name:</span> <span>Clark Thompson</span></li>
-								<li class="d-flex"><span>Date of birth:</span> <span>January 01, 1987</span></li>
-								<li class="d-flex"><span>Address:</span> <span>San Francisco CA 97987 USA</span></li>
-								<li class="d-flex"><span>Zip code:</span> <span>1000</span></li>
-								<li class="d-flex"><span>Email:</span> <span>clarkthomp@gmail.com</span></li>
-								<li class="d-flex"><span>Phone: </span> <span>+1-2234-5678-9-0</span></li>
-							</ul>
-						</div>
-					</div>
-					<div class="counter-wrap ftco-animate d-flex mt-md-3">
-						<div class="text">
-							<p class="mb-4">
-								<span class="number" data-number="120">0</span>
-								<span>Project complete</span>
-							</p>
-							<p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
 	<section class="ftco-section ftco-no-pb" id="resume-section">
 		<div class="container">
 			<div class="row justify-content-center pb-5">
@@ -253,7 +211,7 @@
 			<div class="row">
 				<div class="col-md-6 animate-box">
 					<div class="progress-wrap ftco-animate">
-						<h3>Photoshop</h3>
+						<h3>HTML</h3>
 						<div class="progress">
 							<div class="progress-bar color-1" role="progressbar" aria-valuenow="90" aria-valuemin="0"
 								aria-valuemax="100" style="width:90%">
@@ -264,40 +222,40 @@
 				</div>
 				<div class="col-md-6 animate-box">
 					<div class="progress-wrap ftco-animate">
-						<h3>jQuery</h3>
+						<h3>CSS</h3>
 						<div class="progress">
 							<div class="progress-bar color-2" role="progressbar" aria-valuenow="85" aria-valuemin="0"
 								aria-valuemax="100" style="width:85%">
-								<span>85%</span>
+								<span>80%</span>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 animate-box">
 					<div class="progress-wrap ftco-animate">
-						<h3>HTML5</h3>
+						<h3>JavaScript</h3>
 						<div class="progress">
 							<div class="progress-bar color-3" role="progressbar" aria-valuenow="95" aria-valuemin="0"
 								aria-valuemax="100" style="width:95%">
-								<span>95%</span>
+								<span>70%</span>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 animate-box">
 					<div class="progress-wrap ftco-animate">
-						<h3>CSS3</h3>
+						<h3>PHP</h3>
 						<div class="progress">
 							<div class="progress-bar color-4" role="progressbar" aria-valuenow="90" aria-valuemin="0"
 								aria-valuemax="100" style="width:90%">
-								<span>90%</span>
+								<span>70%</span>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 animate-box">
 					<div class="progress-wrap ftco-animate">
-						<h3>WordPress</h3>
+						<h3>MySQL</h3>
 						<div class="progress">
 							<div class="progress-bar color-5" role="progressbar" aria-valuenow="70" aria-valuemin="0"
 								aria-valuemax="100" style="width:70%">
@@ -308,7 +266,7 @@
 				</div>
 				<div class="col-md-6 animate-box">
 					<div class="progress-wrap ftco-animate">
-						<h3>SEO</h3>
+						<h3>TailWind CSS</h3>
 						<div class="progress">
 							<div class="progress-bar color-6" role="progressbar" aria-valuenow="80" aria-valuemin="0"
 								aria-valuemax="100" style="width:80%">
@@ -327,7 +285,7 @@
 			<div class="row justify-content-center pb-5">
 				<div class="col-md-12 heading-section text-center ftco-animate">
 					<h1 class="big big-2">Projects</h1>
-					<h2 class="mb-4">Our Projects</h2>
+					<h2 class="mb-4">My Projects</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
 				</div>
 			</div>
@@ -406,7 +364,7 @@
 			<div class="row justify-content-center mb-5 pb-5">
 				<div class="col-md-7 heading-section text-center ftco-animate">
 					<h1 class="big big-2">Blog</h1>
-					<h2 class="mb-4">Our Blog</h2>
+					<h2 class="mb-4">My Blog</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
 				</div>
 			</div>
@@ -472,57 +430,6 @@
 		</div>
 	</section>
 
-	<section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img" id="section-counter">
-		<div class="container">
-			<div class="row d-md-flex align-items-center">
-				<div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
-					<div class="block-18">
-						<div class="text">
-							<strong class="number" data-number="100">0</strong>
-							<span>Awards</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
-					<div class="block-18">
-						<div class="text">
-							<strong class="number" data-number="1200">0</strong>
-							<span>Complete Projects</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
-					<div class="block-18">
-						<div class="text">
-							<strong class="number" data-number="1200">0</strong>
-							<span>Happy Customers</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
-					<div class="block-18">
-						<div class="text">
-							<strong class="number" data-number="500">0</strong>
-							<span>Cups of coffee</span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section class="ftco-section ftco-hireme img margin-top" style="background-image: url(images/bg_1.jpg)">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-md-7 ftco-animate text-center">
-					<h2>I'm <span>Available</span> for freelancing</h2>
-					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-					<p class="mb-0"><a href="#" class="btn btn-primary py-3 px-5">Hire me</a></p>
-				</div>
-			</div>
-		</div>
-	</section>
-
 	<section class="ftco-section contact-section ftco-no-pb" id="contact-section">
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-3">
@@ -569,34 +476,6 @@
 						<h3 class="mb-4">Website</h3>
 						<p><a href="#">yoursite.com</a></p>
 					</div>
-				</div>
-			</div>
-
-			<div class="row no-gutters block-9">
-				<div class="col-md-6 order-md-last d-flex">
-					<form action="#" class="bg-light p-4 p-md-5 contact-form">
-						<div class="form-group">
-							<input type="text" class="form-control" placeholder="Your Name">
-						</div>
-						<div class="form-group">
-							<input type="text" class="form-control" placeholder="Your Email">
-						</div>
-						<div class="form-group">
-							<input type="text" class="form-control" placeholder="Subject">
-						</div>
-						<div class="form-group">
-							<textarea name="" id="" cols="30" rows="7" class="form-control"
-								placeholder="Message"></textarea>
-						</div>
-						<div class="form-group">
-							<input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
-						</div>
-					</form>
-
-				</div>
-
-				<div class="col-md-6 d-flex">
-					<div class="img" style="background-image: url(images/about.jpg);"></div>
 				</div>
 			</div>
 		</div>

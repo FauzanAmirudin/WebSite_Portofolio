@@ -44,7 +44,7 @@
 					<li class="nav-item"><a href="skills" class="nav-link"><span>Skills</span></a></li>
 					<li class="nav-item"><a href="projects" class="nav-link"><span>Projects</span></a></li>
 					<li class="nav-item"><a href="detail" class="nav-link"><span>My Blog</span></a></li>
-					<li class="nav-item"><a href="contact" class="nav-link"><span>Contact</span></a></li>
+					<li class="nav-item"><a href="login" class="nav-link"><span>Admin</span></a></li>
 				</ul>
 			</div>
 		</div>

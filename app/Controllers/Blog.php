@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Controllers;
+use App\Models\BlogModel;
 
 class Blog extends BaseController
 {

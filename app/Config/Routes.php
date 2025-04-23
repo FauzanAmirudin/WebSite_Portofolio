@@ -33,3 +33,10 @@ $routes->get('/projects', 'Projects::projects');
 
 // Rute untuk halaman contact, akan memanggil metode contact() dari controller Contact
 $routes->get('/contact', 'Contact::contact');
+
+
+
+$routes->get('/login', 'AuthController::login');
+$routes->post('/login', 'AuthController::authenticate');
+$routes->get('/dashboard', 'AuthController::dashboard');
+$routes->get('/logout', 'AuthController::logout');
