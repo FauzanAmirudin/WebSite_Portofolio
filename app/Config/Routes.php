@@ -22,9 +22,6 @@ $routes->get('/resume', 'Resume::resume');
 // Rute untuk halaman about, akan memanggil metode about() dari controller About
 $routes->get('/about', 'About::about');
 
-// Rute untuk halaman service, akan memanggil metode service() dari controller Service
-$routes->get('/service', 'Service::service');
-
 // Rute untuk halaman skills, akan memanggil metode skills() dari controller Skills
 $routes->get('/skills', 'Skills::skills');
 
@@ -40,3 +37,11 @@ $routes->get('/login', 'AuthController::login');
 $routes->post('/login', 'AuthController::authenticate');
 $routes->get('/dashboard', 'AuthController::dashboard');
 $routes->get('/logout', 'AuthController::logout');
+
+$routes->get('/single/(:num)', 'Single::single/$1');
+$routes->get('/admin', 'AdminController::index');
+$routes->get('/admin/create', 'AdminController::create');
+$routes->post('/admin/store', 'AdminController::store');
+$routes->get('/admin/edit/(:num)', 'AdminController::edit/$1');
+$routes->post('/admin/update/(:num)', 'AdminController::update/$1');
+$routes->post('/admin/delete/(:num)', 'AdminController::delete/$1');

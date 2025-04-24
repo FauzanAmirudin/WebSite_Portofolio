@@ -31,7 +31,7 @@ class AuthController extends BaseController
             ]);
 
             // Redirect ke halaman dashboard
-            return redirect()->to('/dashboard');
+            return redirect()->to('/admin');
         }
 
         // Jika login gagal
@@ -46,7 +46,7 @@ class AuthController extends BaseController
         }
 
         // Tampilkan halaman dashboard
-        return view('auth/dashboard');
+        return view('admin/blog/index');
     }
 
     public function logout()

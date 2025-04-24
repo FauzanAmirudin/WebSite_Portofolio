@@ -20,7 +20,7 @@
 					<div class="col-md-12 heading-section ftco-animate">
 						<h1 class="big">About</h1>
 						<h2 class="mb-4">About Me</h2>
-						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+						<p>a student who is interested in technology, I am studying web development especially front-end development, nice to meet you.</p>
 						<!-- Deskripsi singkat tentang profil -->
 						<ul class="about-info mt-4 px-md-0 px-2">
 							<li class="d-flex"><span>Name:</span> <span>Fauzan Amirudin Basith</span></li>
@@ -36,12 +36,9 @@
 					<!-- Bagian untuk menampilkan jumlah proyek yang telah diselesaikan -->
 					<div class="text">
 						<p class="mb-4">
-							<span class="number" data-number="120">0</span>
+							<span class="number" data-number="6">0</span>
 							<span>Project complete</span>
 						</p>
-						<!-- Menampilkan jumlah proyek yang telah diselesaikan dengan efek animasi -->
-						<p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p>
-						<!-- Tombol untuk mengunduh CV -->
 					</div>
 				</div>
 			</div>
